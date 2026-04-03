@@ -32,3 +32,5 @@ We collaborate with partners and clients across multiple sectors.
 
 For partnerships:
 partners@solveta.be
+
+_Last updated for operational review._
